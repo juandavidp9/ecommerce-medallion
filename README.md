@@ -1,4 +1,4 @@
-# Azure Ecommerce Project: Medallion Architecture with Pyspark
+# Pyspark Ecommerce Project: Medallion Architecture
 
 ETL Project with E-commerce Company's data following the medallion architecture.
 
